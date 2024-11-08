@@ -18,7 +18,7 @@ public class EmployeeClass
             if (empsal<500)
             empsal=empsal+10;
             }
-            
+             
             void addhrs()
             {
             if (emphrs>6)
