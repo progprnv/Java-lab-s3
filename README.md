@@ -63,6 +63,7 @@
 
  #2 FInd area perimetr diagonal midpoint iof RECTANGLE USING CLASS 
 
+```
  import java.util.*;
 public class Rectangle {
     float length,breadth;
@@ -110,7 +111,7 @@ public class Rectangle {
         r.getmidpoint(x,y);
     }
 }
-
+```
 
 # 3 
     
