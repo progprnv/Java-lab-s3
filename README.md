@@ -1,4 +1,4 @@
-#1 Employee CLASS details prgm no.13
+# 1 Employee CLASS details prgm no.13
 
  import java.util.*;
  public class Employee
@@ -61,7 +61,7 @@
  ADDING NOTE: line 40,41 il nextInt() kodukan pattila.. bcoz string ann employee name edukunath so String nn sc=next(); ithrem mathi.
 
 
- #2 FInd area perimetr diagonal midpoint iof RECTANGLE USING CLASS 
+ # 2 FInd area perimetr diagonal midpoint iof RECTANGLE USING CLASS 
 
 ```
  import java.util.*;
