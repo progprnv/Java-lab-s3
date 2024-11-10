@@ -113,7 +113,58 @@ public class Rectangle {
 }
 ```
 
-# 3 
+# 3 Inheritamnce employee details
+
+``` import java.util.*;
+class Complex 
+{
+    float real1,imag1,real2,imag2;
+    
+    
+    void sum()
+    
+    {
+        System.out.println("Sum is:"+(rea1+real2)+"+"+(imag1+imag2)+"i");
+    }
+    
+    
+    void difference()
+    {
+        System.out.println("Difference is "+(real1-real2)+"+"+(imag1-imag2));
+    }
+    
+    void product()
+    {
+        float real=(real1*real2)-(imag1-imag2);
+        float imag=(imag1*real2)+(real1*imag2);
+        System.out.println("Product is:"+real+"+"+imag+"i");
+    }
+    
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        Complex c=new Complex();
+        System.out.println("enter the real part of first complex no.");
+        c.real1=sc.nextFloat();
+        System.out.println("enter the img part of first complex no");
+        c.imag1=sc.nextFloat();
+        System.out.println("enter the real part of second complex no: ");
+        c.real2=sc.nextFloat();
+        System.out.println("enter the img part of second complex no:");
+        c.imag2.sc=nextFloat();
+        c.sum();
+        c.difference();
+        c.product();
+    }
+         }
+    
+    
+    
+    
+}
+```
+
+# 4
     
 
           
