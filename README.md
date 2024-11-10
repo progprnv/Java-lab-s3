@@ -113,7 +113,7 @@ public class Rectangle {
 }
 ```
 
-# 3 Inheritamnce employee details
+# 3 Complex no
 
 ``` import java.util.*;
 class Complex 
